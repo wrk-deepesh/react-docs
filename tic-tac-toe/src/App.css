@@ -1,0 +1,23 @@
+.App {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center
+}
+
+h1 {
+    font-weight: 700;
+    font-style: normal;
+    margin-bottom: 35px;
+}
+
+.ResetButton {
+    padding: 10px 15px;
+    margin-bottom: 35px;
+    width: 300px;
+    border-radius: 5px;
+    color: white;
+    background-color: black;
+    font-family: "Press Start 2P", system-ui;
+}
